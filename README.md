@@ -17,11 +17,10 @@ Sou desenvolvedor Full Stack em formação, focado em construir aplicações web
 ---
 
 ### 📈 Minhas Estatísticas no GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=llucass1998&show_icons=true&theme=radium&hide_border=true" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucass1998&layout=compact&theme=radium&hide_border=true" alt="Linguagens mais usadas" height="150" />
-</p>
 
+![Estatísticas do Lucas](https://github-readme-stats.vercel.app/api?username=llucass1998&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=llucass1998&layout=compact&theme=tokyonight)
 ---
 
 ### 📫 Como me encontrar:
