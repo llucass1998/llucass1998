@@ -1,27 +1,116 @@
+<h1 align="center">Olá 👋, eu sou Lucas de Souza</h1>
 
-### Olá! 👋 Sou o Lucas Mendonça
-
-Sou desenvolvedor Full Stack residente no Rio de Janeiro. Com vivência profissional no mercado de tecnologia desde 2017, atualmente estou cursando Análise e Desenvolvimento de Sistemas (com formação prevista para o meio deste ano) e focado em construir aplicações web completas, eficientes e escaláveis.
-
-🚀 **O que estou construindo agora:**
-Estou na reta final da minha graduação e totalmente focado no desenvolvimento de um portfólio robusto com aplicações Full Stack, dominando o ecossistema JavaScript e TypeScript (React, Node.js, APIs RESTful). Meu foco é escrever código limpo e entregar soluções reais.
+<p align="center">
+  Desenvolvedor Full Stack focado em criar aplicações web modernas, escaláveis e eficientes.
+</p>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 🚀 Sobre mim
 
-**Frontend:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+💻 Desenvolvedor Full Stack com foco em aplicações web modernas e responsivas.
 
-**Backend e Banco de Dados:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas.
+
+📍 Rio de Janeiro - Brasil
+
+⚡ Trabalho com tecnologias do ecossistema JavaScript e TypeScript, desenvolvendo aplicações completas utilizando React, Node.js, APIs RESTful e banco de dados SQL.
+
+🎯 Meu foco é escrever código limpo, criar interfaces modernas e desenvolver soluções eficientes e escaláveis.
 
 ---
 
-### 🏆 Conquistas e Engajamento
+## 🛠️ Tecnologias e Ferramentas
 
-![Gamer Trophies](https://github-profile-trophy.vercel.app/?username=llucass1998&theme=tokyonight&column=4&margin-w=15&margin-h=15)
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
 ---
 
-### 📫 Contato:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-souza-52422b160/?skipRedirect=true)
+# 🚀 Projetos em Destaque
 
+## 🛒 E-commerce Full Stack
+
+Sistema completo de e-commerce com autenticação JWT, carrinho de compras e integração com banco de dados.
+
+### Tecnologias:
+React • Node.js • Express • MySQL
+
+---
+
+## 📋 Dashboard Administrativo
+
+Painel administrativo responsivo com gerenciamento de usuários e visualização de dados.
+
+### Tecnologias:
+React • TypeScript • Chart.js
+
+---
+
+## 🔐 Sistema de Autenticação
+
+API RESTful com login, registro de usuários, autenticação JWT e criptografia de senhas.
+
+### Tecnologias:
+Node.js • Express • JWT • bcrypt
+
+---
+
+## 🌐 Portfólio Responsivo
+
+Site pessoal moderno focado em performance, responsividade e boa experiência do usuário.
+
+### Tecnologias:
+React • TailwindCSS
+
+---
+
+## 📚 Atualmente estudando
+
+- Arquitetura Full Stack
+- TypeScript avançado
+- APIs RESTful
+- Banco de Dados SQL
+- Clean Code
+- Docker
+
+---
+
+## 📬 Contato
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/lucas-souza-52422b160/?skipRedirect=true" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Transformando ideias em aplicações reais.
+
+</div>
