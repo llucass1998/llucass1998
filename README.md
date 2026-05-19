@@ -22,6 +22,6 @@ Estou na reta final da minha graduação e totalmente focado no desenvolvimento 
 
 ---
 
-### 📫 Contato e Currículo:
+### 📫 Contato:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-souza-52422b160/?skipRedirect=true)
 
