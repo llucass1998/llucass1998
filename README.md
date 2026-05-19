@@ -1,6 +1,6 @@
 ### Olá! 👋 Sou o Lucas
 
-Sou desenvolvedor Full Stack em formação, focado em construir aplicações web completas, eficientes e escaláveis. Atualmente estou aprimorando meus conhecimentos no ecossistema JavaScript/TypeScript, construindo desde interfaces dinâmicas até APIs robustas.
+Sou desenvolvedor Full Stack em formação, focado em construir aplicações web completas, eficientes e escaláveis. Atualmente estou aprimorando meus conhecimentos no ecossistema JavaScript/TypeScript, desenvolvendo desde interfaces dinâmicas em React até APIs robustas em Node.js.
 
 ---
 
@@ -16,13 +16,18 @@ Sou desenvolvedor Full Stack em formação, focado em construir aplicações web
 
 ---
 
-### 📈 Minhas Estatísticas no GitHub
+### 🏆 Conquistas e Engajamento
 
-![Estatísticas do Lucas](https://github-readme-stats.vercel.app/api?username=llucass1998&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Gamer Trophies](https://github-profile-trophy.vercel.app/?username=llucass1998&theme=tokyonight&column=4&margin-w=15&margin-h=15)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=llucass1998&layout=compact&theme=tokyonight)
+---
+
+### 🔥 Ritmo de Desenvolvimento
+
+![Status de commits](https://github-readme-streak-stats.herokuapp.com/?user=llucass1998&theme=tokyonight)
+
 ---
 
 ### 📫 Como me encontrar:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_SEU_LINK_DO_LINKEDIN_AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-souza-52422b160/?skipRedirect=true)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:llucas.ab@gmail.com)
