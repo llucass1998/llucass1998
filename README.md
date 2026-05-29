@@ -50,6 +50,15 @@
 
 # 🚀 Projetos em Destaque
 
+## 💎 Gestão de Estoque - Joalheria Full Stack
+
+Sistema completo para controle de inventário de joias, contando com arquitetura de rotas protegidas por JWT, validação rigorosa de schemas e experiência de usuário otimizada com notificações fluidas em tempo real.
+
+### Tecnologias:
+Next.js • TypeScript • React Hook Form • Zod • Sonner • Node.js • Prisma • PostgreSQL
+
+---
+
 ## 🛒 E-commerce Full Stack
 
 Sistema completo de e-commerce com autenticação JWT, carrinho de compras e integração com banco de dados.
