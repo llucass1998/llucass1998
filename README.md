@@ -118,6 +118,14 @@ React • TailwindCSS
 <img src="https://img.shields.io/badge/E--mail-llucas.ab%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://wa.me/5521982507512" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-21%2098250--7512-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-lucas-jumw.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Online-E11D2E?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
 
 ---
