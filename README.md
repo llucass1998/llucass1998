@@ -1,22 +1,25 @@
-<h1 align="center">Olá 👋, eu sou Lucas de Souza</h1>
+<h1 align="center">Olá 👋, eu sou Lucas de Souza Furtado Mendonça</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack focado em criar aplicações web modernas, escaláveis e eficientes.
+  Desenvolvedor Full Stack Júnior em formação, com foco em aplicações web modernas, APIs REST, banco de dados, dashboards e sistemas comerciais reais.
+</p>
+
+<p align="center">
+  <a href="https://portfolio-lucas-jumw.vercel.app/" target="_blank">Portfólio</a> •
+  <a href="https://github.com/llucass1998" target="_blank">GitHub</a> •
+  <a href="https://www.linkedin.com/in/lucas-souza-52422b160/" target="_blank">LinkedIn</a> •
+  <a href="mailto:llucas.ab@gmail.com" target="_blank">E-mail</a>
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-💻 Desenvolvedor Full Stack com foco em aplicações web modernas e responsivas.
+Sou formado como **Técnico em TI pelo Senac Madureira**, cursei **Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida** e atualmente estou cursando **Bacharelado em Engenharia de Software na Universidade Cruzeiro do Sul**.
 
-🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas.
+Tenho desenvolvido projetos práticos com foco em **Full Stack**, utilizando tecnologias como **React, TypeScript, Node.js, Express, Prisma, PostgreSQL, Tailwind CSS, Docker e Git/GitHub**.
 
-📍 Rio de Janeiro - Brasil
-
-⚡ Trabalho com tecnologias do ecossistema JavaScript e TypeScript, desenvolvendo aplicações completas utilizando React, Node.js, APIs RESTful e banco de dados SQL.
-
-🎯 Meu foco é escrever código limpo, criar interfaces modernas e desenvolver soluções eficientes e escaláveis.
+Minha evolução no GitHub mostra a passagem de projetos iniciais com HTML, CSS e JavaScript para sistemas completos com **frontend, backend, banco de dados, autenticação, dashboard, testes, deploy e documentação**.
 
 ---
 
@@ -25,19 +28,19 @@
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
 </p>
 
-### Banco de Dados
+### Banco de Dados e Infraestrutura
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,nginx" />
 </p>
 
 ### Ferramentas
@@ -48,90 +51,95 @@
 
 ---
 
-# 🚀 Projetos em Destaque
+# ⭐ Projetos em Destaque
 
-## 💎 Gestão de Estoque - Joalheria Full Stack
+## 🍕 Sistema Pizzaria Lucas — ERP/Delivery Full Stack
 
-Sistema completo para controle de inventário de joias, contando com arquitetura de rotas protegidas por JWT, validação rigorosa de schemas e experiência de usuário otimizada com notificações fluidas em tempo real.
+Sistema full stack para pizzarias e restaurantes, com frente de loja, cardápio digital, carrinho, checkout, painel administrativo, pedidos, produtos, financeiro, logística/entregadores e deploy em ambiente real.
 
-### Tecnologias:
-Next.js • TypeScript • React Hook Form • Zod • Sonner • Node.js • Prisma • PostgreSQL
+**Destaques técnicos:**
 
----
+- Frontend responsivo com React, Vite e Tailwind CSS.
+- Backend com Node.js, Express e TypeScript.
+- Banco de dados PostgreSQL com Prisma ORM.
+- Painel administrativo para gestão de produtos, pedidos e dados da loja.
+- Fluxo de pedidos com entrega/retirada e formas de pagamento.
+- Estrutura com testes, typecheck, Docker e deploy.
 
-## 🛒 E-commerce Full Stack
+**Links:**
 
-Sistema completo de e-commerce com autenticação JWT, carrinho de compras e integração com banco de dados.
+- Produção: [pizzarialucas.istigestao.com.br](https://pizzarialucas.istigestao.com.br/)
+- Repositório: [github.com/llucass1998/sistema-pizzaria](https://github.com/llucass1998/sistema-pizzaria)
 
-### Tecnologias:
-React • Node.js • Express • MySQL
-
----
-
-## 📋 Dashboard Administrativo
-
-Painel administrativo responsivo com gerenciamento de usuários e visualização de dados.
-
-### Tecnologias:
-React • TypeScript • Chart.js
+**Tecnologias:** React • Vite • TypeScript • Node.js • Express • Prisma • PostgreSQL • Tailwind CSS • Docker • Vitest • Playwright
 
 ---
 
-## 🔐 Sistema de Autenticação
+## 🚚 Sistema de Gestão Logística
 
-API RESTful com login, registro de usuários, autenticação JWT e criptografia de senhas.
+Sistema full stack para controle de entregas, motoristas e veículos, com painel administrativo, dashboard de indicadores, autenticação JWT, API REST e acompanhamento operacional.
 
-### Tecnologias:
-Node.js • Express • JWT • bcrypt
+**Destaques técnicos:**
+
+- Cadastro e gerenciamento de motoristas, veículos e entregas.
+- Atualização de status operacional.
+- Dashboard com métricas e gráficos.
+- Backend com Node.js, Express, Prisma e PostgreSQL.
+- Frontend com Next.js, React, TypeScript e Tailwind CSS.
+
+**Repositório:** [github.com/llucass1998/sistema-gestao-logistica](https://github.com/llucass1998/sistema-gestao-logistica)
+
+**Tecnologias:** Next.js • React • TypeScript • Node.js • Express • Prisma • PostgreSQL • JWT • Recharts • Leaflet
 
 ---
 
-## 🌐 Portfólio Responsivo
+## 🌐 Portfólio Lucas Souza
 
-Site pessoal moderno focado em performance, responsividade e boa experiência do usuário.
+Portfólio pessoal para apresentação profissional, projetos, tecnologias e links de contato.
 
-### Tecnologias:
-React • TailwindCSS
+**Link:** [portfolio-lucas-jumw.vercel.app](https://portfolio-lucas-jumw.vercel.app/)
+
+**Tecnologias:** React • Tailwind CSS • Vercel
 
 ---
 
 ## 📚 Atualmente estudando
 
-- Arquitetura Full Stack
+- Engenharia de Software
 - TypeScript avançado
-- APIs RESTful
-- Banco de Dados SQL
-- Clean Code
-- Docker
+- React e Next.js
+- Node.js e APIs REST
+- PostgreSQL e Prisma
+- Docker e deploy
+- Testes automatizados
+- Inglês técnico para tecnologia
 
 ---
 
 ## 📬 Contato
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/lucas-souza-52422b160/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/lucas-souza-52422b160/?skipRedirect=true" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="mailto:llucas.ab@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/E--mail-llucas.ab%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="mailto:llucas.ab@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/E--mail-llucas.ab%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://wa.me/5521982507512" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-21%2098250--7512-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 
-<a href="https://wa.me/5521982507512" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-21%2098250--7512-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-lucas-jumw.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Online-E11D2E?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
+  <a href="https://portfolio-lucas-jumw.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Online-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <div align="center">
 
-### ⭐ Transformando ideias em aplicações reais.
+### ⭐ Evoluindo de projetos de estudo para aplicações full stack reais.
 
 </div>
