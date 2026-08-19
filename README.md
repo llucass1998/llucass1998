@@ -1,145 +1,144 @@
-<h1 align="center">Olá 👋, eu sou Lucas de Souza Furtado Mendonça</h1>
+<div align="center">
 
-<p align="center">
-  Desenvolvedor Full Stack Júnior em formação, com foco em aplicações web modernas, APIs REST, banco de dados, dashboards e sistemas comerciais reais.
-</p>
+Olá, eu sou Lucas Souza 👋
 
-<p align="center">
-  <a href="https://portfolio-lucas-jumw.vercel.app/" target="_blank">Portfólio</a> •
-  <a href="https://github.com/llucass1998" target="_blank">GitHub</a> •
-  <a href="https://www.linkedin.com/in/lucas-souza-52422b160/" target="_blank">LinkedIn</a> •
-  <a href="mailto:llucas.ab@gmail.com" target="_blank">E-mail</a>
-</p>
+Desenvolvedor Full Stack Júnior | Backend • APIs REST • React • TypeScript • Java • IA aplicada ao desenvolvimento
 
----
 
-## 🚀 Sobre mim
 
-Sou formado como **Técnico em TI pelo Senac Madureira**, cursei **Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida** e atualmente estou cursando **Bacharelado em Engenharia de Software na Universidade Cruzeiro do Sul**.
 
-Tenho desenvolvido projetos práticos com foco em **Full Stack**, utilizando tecnologias como **React, TypeScript, Node.js, Express, Prisma, PostgreSQL, Tailwind CSS, Docker e Git/GitHub**.
 
-Minha evolução no GitHub mostra a passagem de projetos iniciais com HTML, CSS e JavaScript para sistemas completos com **frontend, backend, banco de dados, autenticação, dashboard, testes, deploy e documentação**.
 
----
+</div>
 
-## 🛠️ Tecnologias e Ferramentas
+👨‍💻 Sobre mim
 
-### Frontend
+Sou desenvolvedor em início de carreira, formado em Análise e Desenvolvimento de Sistemas e atualmente cursando Engenharia de Software.
+
+Tenho experiência prática construindo aplicações de ponta a ponta com React, TypeScript, Node.js, APIs REST, PostgreSQL, Docker e Git/GitHub, além de atuação colaborativa em backend com Java e Spring Boot.
+
+Gosto de entender o problema antes de implementar, investigar bugs com método e transformar requisitos em soluções funcionais. No meu fluxo de desenvolvimento também utilizo Claude Code, ChatGPT, Cursor e GitHub Copilot para apoiar análise de código, debugging, documentação, planejamento e revisão técnica — sempre validando as alterações com testes, logs, typecheck e build.
+
+Atualmente estou aprofundando meus conhecimentos em backend, arquitetura de software, cloud, testes automatizados, inteligência artificial aplicada ao desenvolvimento e inglês técnico.
+
+🧰 Stack principal
+
+Front-end
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite" alt="Frontend stack" />
 </p>
 
-### Backend
+Back-end
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" alt="Backend stack" />
 </p>
 
-### Banco de Dados e Infraestrutura
+Dados e infraestrutura
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,nginx" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,nginx,linux" alt="Dados e infraestrutura" />
 </p>
 
-### Ferramentas
+Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Ferramentas" />
 </p>
 
----
+Também trabalho com: Prisma ORM • Medusa v2 • JWT • Socket.IO • TanStack Query/Router • Playwright • Vitest • REST APIs • JSON • responsividade • troubleshooting
 
-# ⭐ Projetos em Destaque
+⭐ Projetos em destaque
 
-## 🍕 Sistema Pizzaria Lucas — ERP/Delivery Full Stack
+❄️ FriggaFrio — E-commerce Full Stack
 
-Sistema full stack para pizzarias e restaurantes, com frente de loja, cardápio digital, carrinho, checkout, painel administrativo, pedidos, produtos, financeiro, logística/entregadores e deploy em ambiente real.
+Projeto real em desenvolvimento para o segmento de refrigeração, estruturado como monorepo com storefront e backend separados.
 
-**Destaques técnicos:**
+Storefront com React 19, TypeScript, Vite e Tailwind CSS.
 
-- Frontend responsivo com React, Vite e Tailwind CSS.
-- Backend com Node.js, Express e TypeScript.
-- Banco de dados PostgreSQL com Prisma ORM.
-- Painel administrativo para gestão de produtos, pedidos e dados da loja.
-- Fluxo de pedidos com entrega/retirada e formas de pagamento.
-- Estrutura com testes, typecheck, Docker e deploy.
+Backend headless com Medusa v2, TypeScript, PostgreSQL e Redis.
 
-**Links:**
+Fluxos de catálogo, carrinho, checkout, pedidos, autenticação e integrações.
 
-- Produção: [pizzarialucas.istigestao.com.br](https://pizzarialucas.istigestao.com.br/)
-- Repositório: [github.com/llucass1998/sistema-pizzaria](https://github.com/llucass1998/sistema-pizzaria)
+Ambiente com Docker, testes, lint, typecheck e build.
 
-**Tecnologias:** React • Vite • TypeScript • Node.js • Express • Prisma • PostgreSQL • Tailwind CSS • Docker • Vitest • Playwright
+Trabalho contínuo de investigação e correção de problemas entre front-end, backend, banco e infraestrutura.
 
----
+🔗 Repositório
 
-## 🚚 Sistema de Gestão Logística
+🚚 Sistema de Gestão Logística
 
-Sistema full stack para controle de entregas, motoristas e veículos, com painel administrativo, dashboard de indicadores, autenticação JWT, API REST e acompanhamento operacional.
+Aplicação Full Stack para gerenciamento de entregas, motoristas e veículos, com autenticação e atualização operacional em tempo real.
 
-**Destaques técnicos:**
+Next.js, React e TypeScript no front-end.
 
-- Cadastro e gerenciamento de motoristas, veículos e entregas.
-- Atualização de status operacional.
-- Dashboard com métricas e gráficos.
-- Backend com Node.js, Express, Prisma e PostgreSQL.
-- Frontend com Next.js, React, TypeScript e Tailwind CSS.
+Node.js, Express, Prisma e PostgreSQL no backend.
 
-**Repositório:** [github.com/llucass1998/sistema-gestao-logistica](https://github.com/llucass1998/sistema-gestao-logistica)
+Autenticação com JWT e comunicação com Socket.IO.
 
-**Tecnologias:** Next.js • React • TypeScript • Node.js • Express • Prisma • PostgreSQL • JWT • Recharts • Leaflet
+CRUDs, validações, dashboard e controle de status das entregas.
 
----
+🔗 Repositório
 
-## 🌐 Portfólio Lucas Souza
+🍕 Sistema de Pizzaria — Full Stack
 
-Portfólio pessoal para apresentação profissional, projetos, tecnologias e links de contato.
+Aplicação web com catálogo, categorias, carrinho, pedidos e painel administrativo.
 
-**Link:** [portfolio-lucas-jumw.vercel.app](https://portfolio-lucas-jumw.vercel.app/)
+Integração entre React, Node.js, Express, Prisma e PostgreSQL.
 
-**Tecnologias:** React • Tailwind CSS • Vercel
+Ambiente containerizado com Docker.
 
----
+Troubleshooting de rede, containers, proxy e integração front-end/backend.
 
-## 📚 Atualmente estudando
+Validação de APIs e fluxo ponta a ponta.
 
-- Engenharia de Software
-- TypeScript avançado
-- React e Next.js
-- Node.js e APIs REST
-- PostgreSQL e Prisma
-- Docker e deploy
-- Testes automatizados
-- Inglês técnico para tecnologia
+🔗 Repositório
 
----
+🤝 Experiência colaborativa
 
-## 📬 Contato
+Horizon — Projeto de Extensão Universitária
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucas-souza-52422b160/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+Desenvolvedor Back-end Voluntário | 2026 — atual
 
-  <a href="mailto:llucas.ab@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/E--mail-llucas.ab%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+Atuação em equipe no desenvolvimento de backend com Java e Spring Boot, contribuindo com APIs REST, regras de negócio, integração com banco de dados, Git/GitHub e discussão de decisões técnicas.
 
-  <a href="https://wa.me/5521982507512" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-21%2098250--7512-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
+🎓 Formação
 
-  <a href="https://portfolio-lucas-jumw.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Online-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+Engenharia de Software — Universidade Cruzeiro do Sul | Em andamento
 
----
+Análise e Desenvolvimento de Sistemas — Universidade Veiga de Almeida | Concluído em 2026
+
+Técnico em Informática — Senac Madureira | Concluído em 2019
+
+🤖 IA no meu fluxo de desenvolvimento
+
+Utilizo IA como ferramenta de apoio à engenharia, não como substituição da validação técnica.
+
+Análise e explicação de código.
+
+Debugging orientado por logs e erros reais.
+
+Planejamento de implementação e decomposição de tarefas.
+
+Revisão e refatoração de código.
+
+Geração e melhoria de documentação técnica.
+
+Apoio à criação de testes e cenários de validação.
+
+Ferramentas: Claude Code • ChatGPT • Cursor • GitHub Copilot.
+
+📫 Contato
+
+LinkedIn: linkedin.com/in/lucas-souza-52422b160
+
+Portfólio: portfolio-lucas-jumw.vercel.app
+
+E-mail: llucas.ab@gmail.com
 
 <div align="center">
 
-### ⭐ Evoluindo de projetos de estudo para aplicações full stack reais.
+Construindo projetos reais, aprendendo continuamente e evoluindo como engenheiro de software.
 
 </div>
